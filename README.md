@@ -1,1 +1,3 @@
-This repository contains certain python projects which were created during the learning period. Mini projects and main projects have different repository.
+This is a simple Python based File Manager with a Command User Interface.
+You are free to use and modify the contents of this file according to your specifications.
+Suggestions are always welcomed to improve this project.
